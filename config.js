@@ -1,6 +1,6 @@
 module.exports = {
   app: {
-    token: '',
+    token: 'ODg5NTAwNTUz%%%MTAzNjk5OTc4.GBdIt5.8PikyK%%%gXUAZ68tEfp7-ByJT%%%9MkjZ78NHjsAY9g',
     playing: 'ahbap.org/bagisci-ol',
     global: true,
     guild: 'XXX',
